@@ -19,7 +19,7 @@
   "dependencies": {
     "@docusaurus/core": "3.0.1",
     "@docusaurus/preset-classic": "3.0.1",
-    "@mdx-js/react": "^3.0.0",
+    "@mdx-js/react": "^3.0.1",
     "@types/react": "^18.2.43",
     "clsx": "^2.1.0",
     "prism-react-renderer": "^2.3.0",
