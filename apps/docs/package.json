@@ -28,7 +28,7 @@
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "3.0.1",
-    "@docusaurus/tsconfig": "3.0.1",
+    "@docusaurus/tsconfig": "3.2.1",
     "@docusaurus/types": "3.0.1",
     "autoprefixer": "^10.4.16",
     "postcss": "^8.4.32",
