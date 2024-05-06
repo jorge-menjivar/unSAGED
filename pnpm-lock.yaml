@@ -272,8 +272,8 @@ importers:
         specifier: 3.0.1
         version: 3.0.1(react-dom@18.2.0)(react@18.2.0)
       '@docusaurus/tsconfig':
-        specifier: 3.0.1
-        version: 3.0.1
+        specifier: 3.3.2
+        version: 3.3.2
       '@docusaurus/types':
         specifier: 3.0.1
         version: 3.0.1(react-dom@18.2.0)(react@18.2.0)
@@ -2837,8 +2837,8 @@ packages:
       tslib: 2.6.2
     dev: false
 
-  /@docusaurus/tsconfig@3.0.1:
-    resolution: {integrity: sha512-hT2HCdNE3pWTzXV/7cSsowfmaOxXVOTFOXmkqaYjBWjaxjJ3FO0nHbdJ8rF6Da7PvWmIPbUekdP5gep1XCJ7Vg==}
+  /@docusaurus/tsconfig@3.3.2:
+    resolution: {integrity: sha512-2MQXkLoWqgOSiqFojNEq8iPtFBHGQqd1b/SQMoe+v3GgHmk/L6YTTO/hMcHhWb1hTFmbkei++IajSfD3RlZKvw==}
     dev: true
 
   /@docusaurus/types@3.0.1(react-dom@18.2.0)(react@18.2.0):
